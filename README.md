@@ -50,9 +50,10 @@ My name is Nathan and I am currently a 4th year student at the <a href="https://
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg"title="react" **alt="react" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg"title="git" **alt="git"height="40" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original-wordmark.svg"title="mongo" **alt="mongo" width="40" height="40"/>
-
-
-
-  
 </div>
+
+---
+
+### :fire: My Stats:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Eoljjang&theme=tokyonight&card_width=1000)](https://git.io/streak-stats)
 

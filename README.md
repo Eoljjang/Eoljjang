@@ -28,7 +28,7 @@ My name is Nathan and I am currently a 4th year Computing Science Specialization
 
 - :telescope: Working towards Bachelor's degree with a particular interest in web technologies / architecture, and full-stack design.
 
-- :seedling: I currently work at CodeNinjas tutoring the next generation how to program.
+- :seedling: I'm currently a tutor at CodeNinja's, teaching & inspiring the next generation how to program.
 
 - :zap: In my free time, I enjoy creatng music, staying active, and playing volleyball 🏐.
 

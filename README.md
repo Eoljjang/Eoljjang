@@ -46,7 +46,7 @@ My name is Nathan and I am currently a 4th year student at the <a href="https://
 </div>
 
 <div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg" title="mySQL" **alt="mySQL" width="40" height="40"/>
+  <img src="https://github.com/yusufie/yusufie/raw/main/icons/sql-logo.svg" title="mySQL" **alt="mySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain-wordmark.svg" title="node" **alt="node" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg"title="react" **alt="react" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg"title="git" **alt="git"height="40" width="40"/>

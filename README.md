@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
@@ -18,4 +16,18 @@
   
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+
+### 👨‍💻 About Me: 
+My name is Nathan and I am currently a 4th year student at the <a href="https://www.ualberta.ca/index.html"> University of Alberta </a> with a minor in Business. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+- :telescope: I’m working towards my Bachelors in Computing Science with a particular interest in web technologies / architecture, and full-stack design.
+
+- :seedling: I currently work at CodeNinjas tutoring the next generation how to program.
+
+- :zap: In my free time, I enjoy creatng music, staying active, and playing volleyball 🏐.
 

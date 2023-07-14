@@ -24,9 +24,9 @@
 ---
 
 ### 👨‍💻 About Me: 
-My name is Nathan and I am currently a 4th year student at the <a href="https://www.ualberta.ca/index.html"> University of Alberta </a> with a minor in Business. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+My name is Nathan and I am currently a 4th year Computing Science Specialization student at the <a href="https://www.ualberta.ca/index.html"> University of Alberta </a> with a minor in Business. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: I’m working towards my Bachelors in Computing Science with a particular interest in web technologies / architecture, and full-stack design.
+- :telescope: Working towards Bachelor's degree with a particular interest in web technologies / architecture, and full-stack design.
 
 - :seedling: I currently work at CodeNinjas tutoring the next generation how to program.
 

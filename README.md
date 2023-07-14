@@ -56,4 +56,5 @@ My name is Nathan and I am currently a 4th year student at the <a href="https://
 
 ### :fire: My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Eoljjang&theme=tokyonight&card_width=1000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eoljjang&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 

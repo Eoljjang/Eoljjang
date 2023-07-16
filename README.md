@@ -62,5 +62,5 @@ My name is Nathan and I am currently a 4th year Computing Science Specialization
 ---
 
 ### 📑 My Projects: 
-<span><a href="https://htmlpreview.github.io/?https://github.com/Eoljjang/projects/blob/main/adminDashboard/index.html">Click this link </a>to see a website that showcases of all my projects. The projects shown there are equivalent to the ones in the "projects" repository below! 😄</span>
+<span><a href="https://htmlpreview.github.io/?https://github.com/Eoljjang/projects/blob/main/adminDashboard/index.html" target="_blank">Click this link </a>to see a website that showcases of all my projects. The projects shown there are equivalent to the ones in the "projects" repository below! 😄</span>
 

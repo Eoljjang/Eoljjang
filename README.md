@@ -59,3 +59,8 @@ My name is Nathan and I am currently a 4th year Computing Science Specialization
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Eoljjang&theme=tokyonight&card_width=1000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eoljjang&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
+### 📑 My Projects: 
+<span><a href="https://htmlpreview.github.io/?https://github.com/Eoljjang/projects/blob/main/adminDashboard/index.html">Click this link </a>to see a website that showcases of all my projects. The projects shown there are equivalent to the ones in the "projects" repository below! 😄</span>
+

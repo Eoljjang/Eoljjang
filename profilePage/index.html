@@ -9,6 +9,7 @@
     <script src="../profilePage/main.js" defer></script>
 </head>
 <body>
+    <!-- Header nav -->
     <nav id="desktop-nav">
         <div class="logo">Nathan Wong</div>
         <div>
@@ -21,6 +22,7 @@
         </div>
     </nav>
 
+    <!-- For mobile support -->
     <nav id="hamburger-nav">
         <div class="logo">Nathan Wong</div>
         <div class="hamburger-menu">
@@ -37,6 +39,42 @@
             <li><a class="link-item" href="#contact">Contact</a></li> <!-- Links to the section, as opposed to a new page. -->
         </div>
     </nav>
+
+    <!-- Content sections -->
+    <section id="profile">
+        <div class="section-pfp-container">
+            <img src="../profilePage/assets/pfp.JPG" id=#pfp alt="pfpNathanWong">
+        </div>
+
+        <!-- Section 1) Profile -->
+        <div class="section-text">
+            <p class="section-text-p1">Hi there! I'm</p>
+            <h1 class="title">Nathan Wong</h1>
+            <p class="section-text-p2">Frontend Developer</p>
+
+            <!-- Button container for links (under pfp)-->
+            <div class="btn-container">
+                <button class="btn btn-color-2" id="btn-resume">Resume</button>
+                <button class="btn btn-color-1" id="btn-contact">Contact Info</button>
+            </div>
+
+            <!-- Container for my socials (under pfp)-->
+            <div class="socials-container">
+                <!-- 1) Linkedin -->
+                <a href="https://www.linkedin.com/in/nathanwong780/" target="_blank">
+                    <img src="./assets/linkedin.png" class="icon" alt="linkedin profile">
+                </a>
+
+                <!-- 2) Github -->
+                <a href="https://github.com/Eoljjang/" target="_blank">
+                    <img src="./assets/github.png" class="icon" alt="github icon">
+                </a>
+
+                
+            </div>
+
+        </div>
+    </section>
     
 </body>
 </html>

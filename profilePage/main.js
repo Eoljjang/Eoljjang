@@ -1,5 +1,7 @@
 const hamburger_icon = document.querySelector(".hamburger-icon");
-const link_items = document.querySelectorAll(".link-item")
+const link_items = document.querySelectorAll(".link-item");
+const btn_resume = document.querySelector("#btn-resume");
+const btn_contact = document.querySelector("#btn-contact");
 
 // Give all link-items an onclick.
 link_items.forEach(i => i.addEventListener("click", () =>{
@@ -20,3 +22,13 @@ function toggleMenu(){
 hamburger_icon.addEventListener("click", () =>{
     toggleMenu();
 });
+
+// Profile button links.
+btn_resume.addEventListener("click", () => {
+    window.open("../profilePage/assets/resume.pdf"); // Opens my resume.
+})
+
+btn_contact.addEventListener("click", () => {
+    location.href = "./#contact"; // Jumps to contact section of the page.
+})
+

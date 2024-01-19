@@ -37,7 +37,7 @@
     section {
       margin: 0 5%;
     }
-    .section__pic-container {
+    .section-pfp-container {
       width: 275px;
       height: 275px;
       margin: 0 auto 2rem;
@@ -86,12 +86,12 @@
       gap: 0.5rem;
       text-align: center;
     }
-    .section__pic-container {
+    .section-pfp-container {
       width: auto;
-      height: 46vw;
+      height: 85vw;
       justify-content: center;
     }
-    .section__text__p2 {
+    .section-text-p2 {
       font-size: 1.25rem;
     }
     .title {

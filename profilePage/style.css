@@ -103,6 +103,8 @@ a:hover{
     max-height: 0;
     overflow: hidden;
     transition: all 0.3 ease-in-out;
+    z-index: 100;
+    border-radius: 1rem;
 }
 
 .menu-links a{ /* Syling each burger menu item */
@@ -270,6 +272,10 @@ section{
     margin-top: 2rem;
 }
 
+#about-pfp-container{
+    clip-path: none; /* Have to specifically remove for this pfp */
+}
+
 .about-details-container{
     justify-content: center;
     flex-direction: column;
@@ -304,7 +310,7 @@ section{
     height: 80%;
 }
 
-.section-pic-container{
+.section-pfp-container{
     height: 400px;
     width: 400px;
     margin: auto 0;
@@ -412,7 +418,7 @@ article .icon{
 
 .contact-icon{
     cursor: default; /* makes the icon unclickable. */
-    height: 3rem;
+    height: 2.25rem;
 }
 
 /* Footer Section */

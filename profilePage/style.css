@@ -150,9 +150,9 @@ a:hover{
 
 /* Sections */
 section{
-    padding-top: 4vh; /* 4% vh space between each section. */
+    padding-top: 1rem; /* Space between each section */
     height: 96vh;
-    margin: 0 10rem; /* 10rem on sides */
+    margin: 0 12rem; /* 10rem on sides */
     box-sizing: border-box;
     min-height: fit-content; /* ensures no overlapping of content */
 }
@@ -412,4 +412,13 @@ article .icon{
 .contact-icon{
     cursor: default; /* makes the icon unclickable. */
     height: 3rem;
+}
+
+/* Footer Section */
+footer{
+    height: 26vh;
+}
+
+footer p{
+    text-align: center;
 }

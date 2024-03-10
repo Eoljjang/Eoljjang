@@ -208,6 +208,7 @@ header {
 .pfp-card-container img{
     border-radius: 2rem; /* Styling the image itself have to target it specifically */
     height: 400px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
 }
 
 .summary-cards-about-me{ /* Container holding all the summary cards. */

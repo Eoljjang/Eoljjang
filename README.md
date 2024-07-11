@@ -23,8 +23,12 @@
 
 ---
 
+### My Portfolio:
+https://eoljjang.github.io/portfolio/
+- Please visit the GitHub page site above to see my portfolio! This site showcases all my work :)
+
 ### 👨‍💻 About Me: 
-My name is Nathan and I am currently a 4th year Computing Science Specialization student at the <a href="https://www.ualberta.ca/index.html"> University of Alberta </a> with a minor in Business. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+My name is Nathan and I am currently a 5th year Computing Science Specialization student at the <a href="https://www.ualberta.ca/index.html"> University of Alberta </a> with a minor in Business. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :telescope: Working towards Bachelor's degree with a particular interest in web technologies / architecture, and full-stack design.
 
@@ -61,6 +65,4 @@ My name is Nathan and I am currently a 4th year Computing Science Specialization
 
 ---
 
-### 📑 My Projects: 
-<span><a href="https://nathanwong-portfolio.netlify.app/" target="_blank">Click this link </a>to see a website that showcases of all my projects. The projects shown there are equivalent to the ones in the "projects" repository below! 😄</span>
 

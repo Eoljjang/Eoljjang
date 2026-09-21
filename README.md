@@ -31,9 +31,11 @@ https://eoljjang.github.io/portfolio/
 My name is Nathan and I am a currently a Business Analyst at Federated Co-Operatives Limited. I graduated from the<a href="https://www.ualberta.ca/index.html"> University of Alberta </a> with a Specialization in Computing Science and Minor in Business. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ### Experience:
-2024: Software Quality Assurance @ PulseMedica
-2025: Software Developer @ PulseMedica
-⚡2026⚡: Business Support Analyst @ Federated Co-Operatives Limited
+<ul>
+  <li>2024: Software Quality Assurance @ PulseMedica</li>
+  <li>2025: Software Developer @ PulseMedica</li>
+  <li>2026 - Current: Business Support Analyst @ Federated Co-Operatives Limited</li>
+</ul>
 
 ---
 

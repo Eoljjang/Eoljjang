@@ -28,13 +28,12 @@ https://eoljjang.github.io/portfolio/
 - Please visit the GitHub page site above to see my portfolio! This site showcases all my work :)
 
 ### 👨‍💻 About Me: 
-My name is Nathan and I am currently a 5th year Computing Science Specialization student at the <a href="https://www.ualberta.ca/index.html"> University of Alberta </a> with a minor in Business. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+My name is Nathan and I am a currently a Business Analyst at Federated Co-Operatives Limited. I graduated from the<a href="https://www.ualberta.ca/index.html"> University of Alberta </a> with a Specialization in Computing Science and Minor in Business. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: Working towards Bachelor's degree with a particular interest in web technologies / architecture, and full-stack design.
-
-- :seedling: I'm currently a tutor at CodeNinjas, teaching & inspiring the next generation how to program.
-
-- :zap: In my free time, I enjoy creatng music, staying active, and playing volleyball 🏐.
+### Experience:
+2024: Software Quality Assurance @ PulseMedica
+2025: Software Developer @ PulseMedica
+⚡2026⚡: Business Support Analyst @ Federated Co-Operatives Limited
 
 ---
 
